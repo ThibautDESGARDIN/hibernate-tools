@@ -1,0 +1,4 @@
+fr\formation\inti\entities\Department.class
+fr\formation\inti\HibernateTools\App.class
+fr\formation\inti\entities\Employee.class
+fr\formation\inti\entities\Account.class
